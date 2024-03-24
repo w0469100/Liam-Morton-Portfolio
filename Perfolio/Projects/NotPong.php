@@ -4,16 +4,18 @@
 <head>
 	<?php
 	$Title =  "Not Pong";
-	include "Sections/Head.php";
+	include "../Sections/Head.php";
 	?>
 	<link href="CSS/Project.css" rel="stylesheet"/>
 </head>
 
 <body>
 <?php
-	include "Sections/Header.php";
-	include "Sections/nav.php";
+	include "../Sections/Header.php";
 ?>
+	<div class="topnav">
+    	<a href="../Projects.php">Back</a>
+	</div>
 <article>
 	<section>
 		<h2> Not Pong </h2>
@@ -37,7 +39,7 @@
 	</section>
 </article>
 <?php
-	include "Sections/Footer.php";
+	include "../Sections/Footer.php";
 ?>
 </body>
 

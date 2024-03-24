@@ -1,8 +1,3 @@
-<?php
-    session_start();
-	if($_SESSION['login']){
-	
-?>
 <!DOCTYPE html>
 <html lang="en">	
 	
@@ -26,8 +21,5 @@
 	include "Sections/Footer.php";
 ?>
 
-</body>
+	</body>
 </html>
-<?php }else{
-	echo "<p> cant access page not logedin</p>";
-	}?>

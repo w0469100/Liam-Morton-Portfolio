@@ -4,16 +4,18 @@
 <head>
 	<?php
 	$Title =  "Draw Shake";
-	include "Sections/Head.php";
+	include "../Sections/Head.php";
 	?>
 	<link href="CSS/Project.css" rel="stylesheet"/>
 </head>
 
 <body>
 <?php
-	include "Sections/Header.php";
-	include "Sections/nav.php";
+	include "../Sections/Header.php";
 ?>
+	<div class="topnav">
+    	<a href="../Projects.php">Back</a>
+	</div>
 <article>
 	<img style="width: 30%;" src="CSS/img/shake.png" alt="picture of me" />
 	<section> 
@@ -36,7 +38,7 @@
 	</section>
 </article>
 <?php
-	include "Sections/Footer.php";
+	include "../Sections/Footer.php";
 ?>
 <style>
     .foot{
