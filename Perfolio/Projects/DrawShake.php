@@ -14,10 +14,10 @@
 	include "../Sections/Header.php";
 ?>
 	<div class="topnav">
-    	<a href="../Projects.php">Back</a>
+		<a href="../Mainpages/Projects.php">Back</a>
 	</div>
 <article>
-	<img style="width: 30%;" src="CSS/img/shake.png" alt="picture of me" />
+	<img style="width: 30%;" src="../img/shake.png" alt="picture of me" />
 	<section> 
 		<h2> Draw Shake </h2>
 		<p><b>

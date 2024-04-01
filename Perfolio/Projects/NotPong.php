@@ -14,7 +14,7 @@
 	include "../Sections/Header.php";
 ?>
 	<div class="topnav">
-    	<a href="../Projects.php">Back</a>
+		<a href="../Mainpages/Projects.php">Back</a>
 	</div>
 <article>
 	<section>

@@ -2,7 +2,7 @@
     background-color: #3F72AF;
     overflow: hidden;
 }
-.foot a{
-    text-emphasis: bold;
-    color: black;
+
+.foot p, .foot address, .foot a {
+    color: white;
 }

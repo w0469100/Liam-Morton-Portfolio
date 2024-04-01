@@ -15,14 +15,14 @@
 
 ?>
 	<div class="topnav">
-    	<a href="../Projects.php">Back</a>
+    	<a href="../Mainpages/Projects.php">Back</a>
 	</div>
 <article>
-	<img id="me" src="CSS/img/BloodRunner.jpg" alt="picture of me" />
+	<img id="me" src="../img/BloodRunner.jpg" alt="picture of me" />
 	<section> 
 		<h2> Blood Runner </h2>
 		<p><b>
-			My very first indie game. I have developed as a side project in my free time. In this futuristic world amidst a war against an unknown alien race, 
+			My very first indie game. I am slowly developing as a side project in my free time. In this futuristic world amidst a war against an unknown alien race, 
 			the GHDS (Galactic Humanity Defence Systems) has created a new combat unit LHMBD (Last Hope Mission Before Destruction). 
 			The LHMBD consists of the Earths finest solders, Specializing in stealth, hand to hand combat and solo missions. 
 			When critical intel or locations are compromised by the enemy, it is the LHMBDs job to recover or destroy what was lost by any means necessary. 

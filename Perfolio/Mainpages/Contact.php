@@ -4,15 +4,15 @@
 <head>
 	<?php
 	$Title =  "Contact";
-	include "Sections/Head.php";
+	include "../Sections/Head.php";
 	?>
-	<link href="CSS/stylespersonalweb.css" rel="stylesheet"/>
+	<link href="../Sections/CSS/stylespersonalweb.css" rel="stylesheet"/>
 </head>
 
 <body>
 <?php
-	include "Sections/Header.php";
-	include "Sections/nav.php";
+	include "../Sections/Header.php";
+	include "../Sections/nav.php";
 ?>
 <form method="post">
     <label class="name" for="name">Name:</label>
@@ -47,7 +47,7 @@
     }
 ?>
 <?php
-	include "Sections/Footer.php";
+	include "../Sections/Footer.php";
 ?>
 </body>
 </html>

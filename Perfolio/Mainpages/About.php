@@ -5,22 +5,22 @@
 <head>
 	<?php
 	$Title =  "About Me";
-	include "Sections/Head.php";
+	include "../Sections/Head.php";
 	?>
-	<link href="CSS/stylespersonalweb.css" rel="stylesheet"/>
+	<link href="../Sections/CSS/stylespersonalweb.css" rel="stylesheet"/>
 	
 </head>
 
 <body>
 <?php
-	include "Sections/Header.php";
-	include "Sections/nav.php";
+	include "../Sections/Header.php";
+	include "../Sections/nav.php";
 ?>
 <article>
 	<section id = "goals">
 		<h2> Career Goals </h2>
 		<p><b>
-			I plan on building a courier in game development and digital design. Making videogames is a hobby if mine and I have recently started 
+			I plan on building a courier in game development and digital design. Making video games is a hobby if mine and I have recently started 
 			to develop my first Indie game titled Blood Runner. I see this as my first step in become a successful developer. 
 			Not only would I like to make my own games, but I also want to work for a company that 
 			I can learn and grow from will also helping and improving there business anyway I can.  
@@ -36,7 +36,7 @@
 	</section>
 </article>
 <?php
-	include "Sections/Footer.php";
+	include "../Sections/Footer.php";
 ?>
 </body>
 
