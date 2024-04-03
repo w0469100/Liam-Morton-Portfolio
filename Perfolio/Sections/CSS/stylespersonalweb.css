@@ -48,10 +48,13 @@ body > img {
 	height: 80%;
 	width: 100%;
 }
+
 #me{
 	width: 180px;
-	margin-left: 35%;
+	margin-left: 10%;
+	float: right;
 }
+
 label {
 	display: block;
 	margin-bottom: 8px;

@@ -3,7 +3,7 @@
 	
 <head>
 	<?php
-	$Title = "Hi I'm <br /> Liam Morton";
+	$Title = "Liam Morton";
 	include "../Sections/Head.php";
 	?>
 	<link href="../Sections/CSS/stylespersonalweb.css" rel="stylesheet"/>
@@ -15,14 +15,17 @@
 	include "../Sections/nav.php";
 ?>
 <article>
+	
 	<section>
 		<h2> About Me </h2>
-		<p><b> 
-			Hi, my name is Liam Morton. I live in Nova Scotia Canada. 
-			I am currently in my completing second year in the IT Programming course located at COGS NSCC.  
-		</b></p> 
+		<img id="me" src="../img/picme.jpg" alt="picture of me" />
+		<p style="text-align: justify;"><b> 
+			Hi, my name is Liam Morton. I live in Nova Scotia Canada. I am currently completing my second year in the IT Programming course located at COGS NSCC. 			
+			<br /><br />
+			I enjoy the teamwork and unique solutions and ideas that come from doing large software and game development projects, 
+			and I believe that team work can lead to product success.
+		</p></b>
 	</section>
-	<img id="me" src="../img/picme.jpg" alt="picture of me" />
 </article>
 <?php
 	include "../Sections/Footer.php";

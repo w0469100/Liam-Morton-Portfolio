@@ -20,10 +20,9 @@
 	<section>
 		<h2> Not Pong </h2>
 		<p><b>
-			This is my groups game that we made for the Bad Mama Jama Game jam. We had only 42 hours to make a working game. 
-			In this game you play as the ball in a futuristic game of pong. Will you bounce between the two pedals you must 
-			try and collect the flying coins will also avoiding the red spike balls.
-			PLAY <a href="https://liammorton-akasquidgy.itch.io/notpong"> Not Pong </a>
+			This is my group's game that we made for the Bad Mama Jama Game jam. We had only 42 hours to make a working game. 
+            In this game, you play as the ball in a futuristic game of pong. In doing this project I was able to experience how it feels to work in fast fast-paced team environment. 
+			<br/><br/>PLAY <a href="https://liammorton-akasquidgy.itch.io/notpong"> Not Pong </a>
 		</b></p>
 	</section>
 	<section>

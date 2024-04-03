@@ -5,10 +5,16 @@ html {
 	height:100%;
     background-color: #DBE2EF;
 } 
+
 img {
     float: right;
     width: 40%;
 }
+
+#Tik {
+    width: 50%;
+}
+
 header {
 	line-height: 100px;
 	padding: 5px;

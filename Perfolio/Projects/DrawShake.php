@@ -21,9 +21,9 @@
 	<section> 
 		<h2> Draw Shake </h2>
 		<p><b>
-			This was my first Android app that I made with a team. This App is a fun drawing app where you can draw art with your finger
-            or use nobs to control a line that draw to the screen. to erase the drawing you need to shake the screen. During the creation of the app 
-            I was tasked for making the menu UI as well as the nobs and there animation used to draw to the screen.
+			This was the first Android app that I made with a team. This App is a fun drawing app where you can draw art with your finger
+            or use nobs to control a line that draws to the screen. This project was semester long and I learned a lot about project management  
+            the importance of using a project lifecycle model and how it is a key aspect of any project.
 		</b></p>
 	</section>
 	<section>

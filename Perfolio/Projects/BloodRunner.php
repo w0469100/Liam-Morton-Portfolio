@@ -22,13 +22,10 @@
 	<section> 
 		<h2> Blood Runner </h2>
 		<p><b>
-			My very first indie game. I am slowly developing as a side project in my free time. In this futuristic world amidst a war against an unknown alien race, 
-			the GHDS (Galactic Humanity Defence Systems) has created a new combat unit LHMBD (Last Hope Mission Before Destruction). 
-			The LHMBD consists of the Earths finest solders, Specializing in stealth, hand to hand combat and solo missions. 
-			When critical intel or locations are compromised by the enemy, it is the LHMBDs job to recover or destroy what was lost by any means necessary. 
-			You play as a member of LHMBD code named Blood Runner, assigned to take back one of GHDSs high-tech space stations, 
-			that has been overrun by an unknown threat. Remember if you fail, the technology with the ability to save humanity will be destroyed. 
-			Blood Runner is still in production link will be here once available. 
+			My very first indie game. I am slowly developing as a side project in my free time. However, after a while,
+		 	I decided to focus on other projects to improve my skills and wanted my first full-fledged game to be special. 
+		 	I see this as my first step in becoming a successful developer is doing smaller projects and improving my skills 
+		 	can help lead to better products.
 		</b></p>
 	</section>
 	<section>
@@ -45,6 +42,10 @@
 <?php
 	include "../Sections/Footer.php";
 ?>
-
+<style>
+    .foot{
+        margin-top: 10%;
+    }
+</style>
 </body>
 </html>

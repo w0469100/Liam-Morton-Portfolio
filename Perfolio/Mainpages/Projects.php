@@ -19,10 +19,10 @@
 	<h2> Projects </h2>
 	<ul>
 		<li> <b> <a href="../Projects/BloodRunner.php">BloodRunner</a></b></li>
-		<li> <b> <a href="../Projects/NotPong.php">NotPog</a></b></li>
+		<li> <b> <a href="../Projects/NotPong.php">NotPong</a></b></li>
 		<li> <b> <a href="../Projects/DrawShake.php">Draw & Shake</a></b></li>
 		<li> <b> <a href="../Projects/Unity.php">Unity Projects</a></b></li>
-		<li> <b> <a href="../Projects/Tik-Tak-Toe.php">Tik-Tak-Toe</a></b></li>
+		<li> <b> <a href="../Projects/Tik-Tak-Toe.php">Tic-Tac-Toe</a></b></li>
 		<li> <b> <a href="../Projects/EIS.php">Event Information System</a></b></li>
 	</ul>
 </section>

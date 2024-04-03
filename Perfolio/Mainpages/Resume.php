@@ -15,7 +15,7 @@
 <body style="height: 70%;">
 	<object
 		type="application/pdf"
-  		data="../Resume/LIAMMORTONResume.pdf"
+  		data=""
 		width="100%"
 		height="100%"
 	>
@@ -25,9 +25,3 @@
 	include "../Sections/Footer.php";
 ?>
 </html>
-
-<script>
-    function Load(){
-        window.open("../Resume/LiamMortonResume.php", '_blank');
-    }
-</script>
