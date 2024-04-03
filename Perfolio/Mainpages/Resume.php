@@ -8,20 +8,22 @@
 	?>
 	<link href="../Sections/CSS/stylespersonalweb.css" rel="stylesheet"/>
 </head>
-
-<body>
 <?php
 	include "../Sections/Header.php";
 	include "../Sections/nav.php";
 ?>
-
-<button onclick="Load()"> View My Resume</button>
-
+<body style="height: 70%;">
+	<object
+		type="application/pdf"
+  		data="../Resume/LIAMMORTONResume.pdf"
+		width="100%"
+		height="100%"
+	>
+	</object>
+</body>
 <?php
 	include "../Sections/Footer.php";
 ?>
-
-</body>
 </html>
 
 <script>

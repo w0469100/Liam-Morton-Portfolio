@@ -6,7 +6,7 @@
 	$Title =  "Blood Runner";
 	include "../Sections/Head.php";
 	?>
-	<link href="CSS/Project.css" rel="stylesheet"/>
+	<link href="../Sections/CSS/Project.css" rel="stylesheet"/>
 </head>
 
 <body>
