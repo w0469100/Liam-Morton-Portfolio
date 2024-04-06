@@ -17,10 +17,14 @@
         <a href="../Mainpages/Projects.php">Back</a>
 	</div>
 <article>
+	<img id="me" src="../img/Group.jpg" alt="picture of me" />
 	<section> 
 		<h2> Event Information System </h2>
 		<p><b>
-			This is a project I am currently working on with a larg group of six people. 
+			This is a project I am currently working on with a large group of six people. 
+			This project is also being made for a clint and in participating in this project 
+			I have leaned the importance of having strong understanding of what a clint wants as wells as the 
+			importance of regularly talking to clients to check for any changes in the project.  
 		</b></p>
 	</section>
 	<section>

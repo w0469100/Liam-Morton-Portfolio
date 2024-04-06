@@ -15,7 +15,7 @@
 <body style="height: 70%;">
 	<object
 		type="application/pdf"
-  		data=""
+  		data="../Resume/LIAMMORTONResume.pdf"
 		width="100%"
 		height="100%"
 	>
