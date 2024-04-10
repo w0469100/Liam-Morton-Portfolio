@@ -21,7 +21,8 @@
 	<section> 
 		<h2> Draw Shake </h2>
 		<p><b>
-			This was the first Android app that I made with a team. This App is a fun drawing app where you can draw art with your finger
+			This was the first Android app that I made with a team. This project was also for school and we did not have much criteria to follow 
+			all we had to do was make it use functionality specific to mobile applications. This App is a fun drawing app where you can draw art with your finger
             or use nobs to control a line that draws to the screen. This project was semester long and I learned a lot about project management  
             the importance of using a project lifecycle model and how it is a key aspect of any project.
 		</b></p>

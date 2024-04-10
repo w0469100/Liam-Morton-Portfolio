@@ -20,7 +20,7 @@
 	<section> 
 		<h2>Tik-Tac-Toe</h2>
 		<p><b>
-			In doing this Project I learned 
+			This was a school project where wa had to make a two player Tik-Tac-Toe game. In doing this Project I learned 
             the importance of teamwork and how it leads to project success as well as the benefits of throwing ideas at each other to solve a common goal, even if it takes 5 hours and a large whiteboard.
 			<br/><br/> If you want the play my group's Tic-Tac-Toe game or see the source code go to this GitHub link <a href="https://github.com/Jacob-D-000/Tic-Tac-Toe">here</a>.
 		</b></p>
